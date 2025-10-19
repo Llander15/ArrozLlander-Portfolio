@@ -1,13 +1,13 @@
-const technologies = [
-  { name: 'JavaScript', category: 'Language' },
-  { name: 'React', category: 'Framework' },
-  { name: 'Node.js', category: 'Runtime' },
-  { name: 'HTML5', category: 'Markup' },
-  { name: 'CSS3', category: 'Styling' },
-  { name: 'Git', category: 'Version Control' },
-  { name: 'MongoDB', category: 'Database' },
-  { name: 'Express', category: 'Framework' }
-];
+// const technologies = [
+//   { name: 'JavaScript', category: 'Language' },
+//   { name: 'React', category: 'Framework' },
+//   { name: 'Node.js', category: 'Runtime' },
+//   { name: 'HTML5', category: 'Markup' },
+//   { name: 'CSS3', category: 'Styling' },
+//   { name: 'Git', category: 'Version Control' },
+//   { name: 'MongoDB', category: 'Database' },
+//   { name: 'Express', category: 'Framework' }
+// ];
 
 // const projects = [
 //   {
