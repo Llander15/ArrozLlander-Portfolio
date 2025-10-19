@@ -9,23 +9,23 @@ const technologies = [
   { name: 'Express', category: 'Framework' }
 ];
 
-const projects = [
-  {
-    title: 'Project One',
-    description: 'A full-stack web application built with React and Node.js featuring real-time updates and responsive design.',
-    tech: ['React', 'Node.js', 'MongoDB']
-  },
-  {
-    title: 'Project Two',
-    description: 'Modern e-commerce platform with secure payment integration and inventory management system.',
-    tech: ['JavaScript', 'Express', 'CSS3']
-  },
-  {
-    title: 'Project Three',
-    description: 'Portfolio website showcasing creative designs with smooth animations and optimal performance.',
-    tech: ['React', 'CSS3', 'HTML5']
-  }
-];
+// const projects = [
+//   {
+//     title: 'Project One',
+//     description: 'A full-stack web application built with React and Node.js featuring real-time updates and responsive design.',
+//     tech: ['React', 'Node.js', 'MongoDB']
+//   },
+//   {
+//     title: 'Project Two',
+//     description: 'Modern e-commerce platform with secure payment integration and inventory management system.',
+//     tech: ['JavaScript', 'Express', 'CSS3']
+//   },
+//   {
+//     title: 'Project Three',
+//     description: 'Portfolio website showcasing creative designs with smooth animations and optimal performance.',
+//     tech: ['React', 'CSS3', 'HTML5']
+//   }
+// ];
 
 function renderTechStack() {
   const techGrid = document.getElementById('tech-grid');
